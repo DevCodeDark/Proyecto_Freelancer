@@ -132,7 +132,7 @@ h1,h2,h3{
 
 /* Hero */
 .hero{
-    background-image: url(../Img/Sistemas.jpg);
+    background-image: url(../img/Sistemas.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 450px;
