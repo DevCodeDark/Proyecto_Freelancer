@@ -188,7 +188,7 @@ h1,h2,h3{
 .servicio .iconos{
     height: 15rem;
     width: 15rem;
-    background-color: var(--primario);
+    background-color: var(--blanco);
     border-radius: 50%;
     display: flex;
     flex-direction: flex;
@@ -199,7 +199,7 @@ h1,h2,h3{
 /* Contacto */
 
 .formulario{
-    background-color: var(--gris);
+    background-color: var(--GrisAcero);
     width: min(60rem, 100%); /* Utilizar el valor más pequeño*/
     margin: 0 auto;
     padding: 2rem;
